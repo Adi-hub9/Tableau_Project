@@ -198,4 +198,4 @@ By analyzing accident severity and patterns, policymakers can design strategies 
 
 # 7. Screenshots / Demo
 
-
+![Alt text for the image](https://github.com/Adi-hub9/Excel_Project/blob/main/Excel_Project_ss.png)
